@@ -1,4 +1,4 @@
-# hello-world
+# Iyke Todo App
 
 ## Project setup
 ```
